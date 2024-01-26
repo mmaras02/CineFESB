@@ -397,33 +397,8 @@
       "email": "mmaras02@fesb.hr",
       "password": "help",
       "admin": false,
-      "favorites": [
-        "1",
-        "2"
-      ],
-      "id": 13
-    },
-    {
-      "email": "neki_mail@fesb.hr",
-      "password": "helo",
-      "admin": false,
-      "favorites": [
-        "5",
-        "13",
-        "1",
-        "3",
-        "13",
-        "1",
-        "2"
-      ],
-      "id": 14
-    },
-    {
-      "email": "neki_mail@fesb.hr",
-      "password": "helo",
-      "admin": false,
       "favorites": [],
-      "id": 15
+      "id": 13
     }
   ]
 }
